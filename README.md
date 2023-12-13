@@ -15,7 +15,6 @@
   <ul>
     <li>I build <strong>Ruby on Rails</strong> apps</li>
     <li>I appreciate your feedback and suggestions</li>
-    <li>I'm adding things to this list as I go</li>
   </ul>
   
   <h3 align="left">Languages and Tools:</h3>
