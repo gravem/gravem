@@ -1,6 +1,7 @@
 <div>
   <h1 align="left">Hi 👋, I'm Aasmund Gravem</h1>
-  <h3 align="left">An aspiring full stack developer located in Brighton.</h3>
+  <p align="left"><strong></strong>An aspiring full stack developer located in Brighton.</strong></p>
+  <p align="left">Chek out my proof of consept mobile web app built with Ruby on Rails. <a href="https://myneighbourhood-65952015072e.herokuapp.com/">Our Neighbourhood</a></p>
   
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=gravem&label=Profile%20views&color=0e75b6&style=flat" alt="gravem" />
