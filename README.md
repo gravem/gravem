@@ -2,6 +2,7 @@
   <h1 align="left">Hi 👋, I'm Aasmund Gravem</h1>
   <p align="left"><strong></strong>An aspiring full stack developer located in Brighton.</strong></p>
   <p align="left">Chek out my proof of consept mobile web app built with Ruby on Rails. <a href="https://myneighbourhood-65952015072e.herokuapp.com/">Our Neighbourhood</a></p>
+  <p align="left">OurNeighbourhood was created over a two week period by a team of four as the end product of a bootcamp at Le Wagon in London. Concept, design and direction by yours truly.</p>
   
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=gravem&label=Profile%20views&color=0e75b6&style=flat" alt="gravem" />
@@ -38,9 +39,6 @@
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
