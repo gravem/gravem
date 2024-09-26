@@ -2,11 +2,13 @@
 
 **A creative web developer located in Brighton.**
 
-> :sparkles: **Having fun:** A small tool for finding monsters while playing D&D. [Stone Of Monsters]([https://myneighbourhood-65952015072e.herokuapp.com "OurNeighbourhood was created over a two week period by a team of four as the end product of a bootcamp at Le Wagon in London. Concept, design and direction by yours truly."](https://dnd-monster-lookup.vercel.app/))
+> :sparkles: **Having fun:** A small tool for finding monsters while playing D&D. [Stone Of Monsters](https://dnd-monster-lookup.vercel.app/)
+> 
 > :sparkles: **Showcase:** A proof of consept mobile web app built with Ruby on Rails. [Our Neighbourhood](https://myneighbourhood-65952015072e.herokuapp.com "OurNeighbourhood was created over a two week period by a team of four as the end product of a bootcamp at Le Wagon in London. Concept, design and direction by yours truly.")
 
 <details>
   <summary>A little bit about me</summary>
+  
   After many years of dipping my toes in the water of web develoment and doing bits and bobs to improve on webpages I was managing, I finally had the opportyunity to take the full plunge, and I loved it!
   Being in a fast paced learning environment and working close with a team is some of the most inspiering thing I can think of.
 
